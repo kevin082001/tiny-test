@@ -6,5 +6,8 @@ out/*
 .idea/
 *.idea/
 *.idea/*
+*.iml
+*iml
+*/*.iml
 !**/src/main/**/out/
 !**/src/test/**/out/
